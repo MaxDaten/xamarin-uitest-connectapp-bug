@@ -29,7 +29,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="NUnit" Version="2.6.4" />
-    <PackageReference Include="Xamarin.UITest" Version="2.2.7" />
+    <PackageReference Include="Xamarin.UITest" Version="3.0.0" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\xamarin_uitest_connectapp_bug.iOS\xamarin_uitest_connectapp_bug.iOS.csproj">

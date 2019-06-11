@@ -32,7 +32,7 @@
     <PackageReference Include="Xamarin.UITest" Version="3.0.0" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\xamarin_uitest_connectapp_bug.iOS\xamarin_uitest_connectapp_bug.iOS.csproj">
+    <ProjectReference Include="..\xamarin-uitest-connectapp-bug.iOS\xamarin-uitest-connectapp-bug.iOS.csproj">
       <Project>{81B16EE0-EC9C-4412-9D01-51B655E61275}</Project>
       <Name>xamarin-uitest-connectapp-bug.iOS</Name>
       <ReferenceOutputAssembly>False</ReferenceOutputAssembly>
